@@ -1,0 +1,241 @@
+[
+  {
+    "id": 109,
+    "name": "Ryo Yamada Cafe Style ver.",
+    "price": 3499,
+    "max_price": 3799,
+    "rating": "5.0",
+    "contents": [
+      {
+        "id": 220,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/109.webp"
+      }
+    ],
+    "seller": {
+      "id": 7,
+      "shop_name": "結束バンド"
+    },
+    "feedbacks": 89,
+    "questions": 33
+  },
+
+  {
+    "id": 108,
+    "name": "Ikuyo Kita Cafe Style ver.",
+    "price": 3499,
+    "max_price": 3799,
+    "rating": "5.0",
+    "contents": [
+      {
+        "id": 212,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/108.webp"
+      }
+    ],
+    "seller": {
+      "id": 7,
+      "shop_name": "結束バンド"
+    },
+    "feedbacks": 66,
+    "questions": 20
+  },
+
+  {
+    "id": 105,
+    "name": "Hitori Gotoh cafe clerk-style ver. Figure",
+    "price": 4799,
+    "max_price": 4999,
+    "rating": "5.0",
+    "contents": [
+      {
+        "id": 200,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/105.webp"
+      }
+    ],
+    "seller": {
+      "id": 7,
+      "shop_name": "結束バンド"
+    },
+    "feedbacks": 65,
+    "questions": 23
+  },
+
+  {
+    "id": 92,
+    "name": "ВФМ Матрас Матрас беспружинный Top Comfort 90x200 см.",
+    "price": 8000,
+    "max_price": 9200,
+    "rating": "3.5",
+    "contents": [
+      {
+        "id": 161,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/92.webp"
+      }
+    ],
+    "seller": {
+      "id": 21,
+      "shop_name": "Vira Мебель"
+    },
+    "feedbacks": 32,
+    "questions": 6
+  },
+
+  {
+    "id": 93,
+    "name": "ВФМ Матрас Матрас беспружинный Top Comfort 180x200 см.",
+    "price": 14500,
+    "max_price": 17200,
+    "rating": "4.0",
+    "contents": [
+      {
+        "id": 169,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/93.webp"
+      }
+    ],
+    "seller": {
+      "id": 21,
+      "shop_name": "Vira Мебель"
+    },
+    "feedbacks": 27,
+    "questions": 16
+  },
+
+  {
+    "id": 89,
+    "name": "Матрас FStore Orto Plus, Независимые пружины, 120х190 см",
+    "price": 13300,
+    "max_price": 14800,
+    "rating": "4.2",
+    "contents": [
+      {
+        "id": 158,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/89.webp"
+      }
+    ],
+    "seller": {
+      "id": 21,
+      "shop_name": "Vira Мебель"
+    },
+    "feedbacks": 22,
+    "questions": 5
+  },
+
+  {
+    "id": 90,
+    "name": "Матрас FStore Orto Plus, Независимые пружины, 140х190 см",
+    "price": 14500,
+    "max_price": 17600,
+    "rating": "4.2",
+    "contents": [
+      {
+        "id": 159,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/90.webp"
+      }
+    ],
+    "seller": {
+      "id": 21,
+      "shop_name": "Vira Мебель"
+    },
+    "feedbacks": 35,
+    "questions": 8
+  },
+
+  {
+    "id": 91,
+    "name": "Матрас FStore Orto Plus, Независимые пружины, 160х190 см",
+    "price": 16500,
+    "max_price": 19200,
+    "rating": "4.0",
+    "contents": [
+      {
+        "id": 160,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/91.webp"
+      }
+    ],
+    "seller": {
+      "id": 21,
+      "shop_name": "Vira Мебель"
+    },
+    "feedbacks": 10,
+    "questions": 25
+  },
+
+  {
+    "id": 88,
+    "name": "Матрас FStore Orto Plus, Независимые пружины, 90х190 см",
+    "price": 10200,
+    "max_price": 11500,
+    "rating": "4.6",
+    "contents": [
+      {
+        "id": 145,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/88.webp"
+      }
+    ],
+    "seller": {
+      "id": 21,
+      "shop_name": "Vira Мебель"
+    },
+    "feedbacks": 44,
+    "questions": 12
+  },
+
+  {
+    "id": 35,
+    "name": "Распашной шкаф для одежды Марвин - 3, 100х210х40 см",
+    "price": 28999,
+    "max_price": 33999,
+    "rating": "4.7",
+    "contents": [
+      {
+        "id": 94,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/35.webp"
+      }
+    ],
+    "seller": {
+      "id": 8,
+      "shop_name": "Мебельная компания Е1"
+    },
+    "feedbacks": 6,
+    "questions": 3
+  },
+
+  {
+    "id": 28,
+    "name": "Распашной шкаф для одежды Марвин - 3, 100х210х40 см",
+    "price": 27999,
+    "max_price": 32999,
+    "rating": "4.8",
+    "contents": [
+      {
+        "id": 68,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/28.webp"
+      }
+    ],
+    "seller": {
+      "id": 8,
+      "shop_name": "Мебельная компания Е1"
+    },
+    "feedbacks": 12,
+    "questions": 7
+  },
+
+  {
+    "id": 87,
+    "name": "Кресло мягкое Грэйс Z-5",
+    "price": 9000,
+    "max_price": 16000,
+    "rating": "4.1",
+    "contents": [
+      {
+        "id": 136,
+        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/87.webp"
+      }
+    ],
+    "seller": {
+      "id": 15,
+      "shop_name": "Metal Gear Shop"
+    },
+    "feedbacks": 4,
+    "questions": 8
+  }
+]
