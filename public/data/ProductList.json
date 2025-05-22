@@ -225,12 +225,7 @@
     "price": 9000,
     "max_price": 16000,
     "rating": "4.1",
-    "contents": [
-      {
-        "id": 136,
-        "full_path": "https://raw.githubusercontent.com/zerescas/v-mok/refs/heads/main/public/images/ProductList/87.webp"
-      }
-    ],
+    "contents": [],
     "seller": {
       "id": 15,
       "shop_name": "Metal Gear Shop"
