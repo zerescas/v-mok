@@ -4,6 +4,7 @@
     "name": "Ryo Yamada Cafe Style ver.",
     "price": 3499,
     "max_price": 3799,
+    "discount_percent": 8,
     "rating": "5.0",
     "contents": [
       {
@@ -24,6 +25,7 @@
     "name": "Ikuyo Kita Cafe Style ver.",
     "price": 3499,
     "max_price": 3799,
+    "discount_percent": 8,
     "rating": "5.0",
     "contents": [
       {
@@ -44,6 +46,7 @@
     "name": "Hitori Gotoh cafe clerk-style ver. Figure",
     "price": 4799,
     "max_price": 4999,
+    "discount_percent": 4,
     "rating": "5.0",
     "contents": [
       {
@@ -64,6 +67,7 @@
     "name": "ВФМ Матрас Матрас беспружинный Top Comfort 90x200 см.",
     "price": 8000,
     "max_price": 9200,
+    "discount_percent": 13,
     "rating": "3.5",
     "contents": [
       {
@@ -84,6 +88,7 @@
     "name": "ВФМ Матрас Матрас беспружинный Top Comfort 180x200 см.",
     "price": 14500,
     "max_price": 17200,
+    "discount_percent": 16,
     "rating": "4.0",
     "contents": [
       {
@@ -104,6 +109,7 @@
     "name": "Матрас FStore Orto Plus, Независимые пружины, 120х190 см",
     "price": 13300,
     "max_price": 14800,
+    "discount_percent": 10,
     "rating": "4.2",
     "contents": [
       {
@@ -124,6 +130,7 @@
     "name": "Матрас FStore Orto Plus, Независимые пружины, 140х190 см",
     "price": 14500,
     "max_price": 17600,
+    "discount_percent": 17,
     "rating": "4.2",
     "contents": [
       {
@@ -144,6 +151,7 @@
     "name": "Матрас FStore Orto Plus, Независимые пружины, 160х190 см",
     "price": 16500,
     "max_price": 19200,
+    "discount_percent": 14,
     "rating": "4.0",
     "contents": [
       {
@@ -164,6 +172,7 @@
     "name": "Матрас FStore Orto Plus, Независимые пружины, 90х190 см",
     "price": 10200,
     "max_price": 11500,
+    "discount_percent": 11,
     "rating": "4.6",
     "contents": [
       {
@@ -184,6 +193,7 @@
     "name": "Распашной шкаф для одежды Марвин - 3, 100х210х40 см",
     "price": 28999,
     "max_price": 33999,
+    "discount_percent": 15,
     "rating": "4.7",
     "contents": [
       {
@@ -204,6 +214,7 @@
     "name": "Распашной шкаф для одежды Марвин - 3, 100х210х40 см",
     "price": 27999,
     "max_price": 32999,
+    "discount_percent": 15,
     "rating": "4.8",
     "contents": [
       {
@@ -224,6 +235,7 @@
     "name": "Кресло мягкое Грэйс Z-5",
     "price": 9000,
     "max_price": 16000,
+    "discount_percent": 48,
     "rating": "4.1",
     "contents": [],
     "seller": {
